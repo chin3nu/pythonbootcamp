@@ -1,6 +1,6 @@
 """ 
-BUBBLE SORT
- """
+BUBBLE SORT A LIST OF NUMBERS
+"""
 
 
 def bs(a):   
