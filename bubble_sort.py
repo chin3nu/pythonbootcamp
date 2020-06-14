@@ -2,9 +2,10 @@
 BUBBLE SORT
  """
 
-def bs(a):             
-    b=len(a)-1       
-                             
+
+def bs(a):   
+    b=len(a)-1
+
     for x in range(b):
         for y in range(b-x):
             if a[y]>a[y+1]:
